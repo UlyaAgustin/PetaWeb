@@ -1,0 +1,4 @@
+// All material copyright ESRI, All Rights Reserved, unless otherwise specified.
+// See http://js.arcgis.com/3.15/esri/copyright.txt and http://www.arcgis.com/apps/webappbuilder/copyright.txt for details.
+//>>built
+define({"esri/layers/vectorTiles/nls/common":{_localized:{}},"widgets/BasemapGallery/nls/strings":{_widgetLabel:"\u0413\u0430\u043b\u0435\u0440\u0438\u044f \u0441 \u0431\u0430\u0437\u043e\u0432\u0438 \u043a\u0430\u0440\u0442\u0438",chooseWebScene:"\u0418\u0437\u0431\u043e\u0440 \u043d\u0430 \u0443\u0435\u0431 \u0441\u0446\u0435\u043d\u0430",chooseWebMap:"\u0418\u0437\u0431\u043e\u0440 \u043d\u0430 \u0443\u0435\u0431 \u043a\u0430\u0440\u0442\u0430",_localized:{}}});

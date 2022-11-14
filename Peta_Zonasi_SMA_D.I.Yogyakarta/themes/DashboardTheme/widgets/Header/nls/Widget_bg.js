@@ -1,0 +1,5 @@
+// All material copyright ESRI, All Rights Reserved, unless otherwise specified.
+// See http://js.arcgis.com/3.15/esri/copyright.txt and http://www.arcgis.com/apps/webappbuilder/copyright.txt for details.
+//>>built
+define({"themes/DashboardTheme/widgets/Header/nls/strings":{_widgetLabel:"\u0425\u0435\u0434\u044a\u0440",signin:"\u0420\u0435\u0433\u0438\u0441\u0442\u0440\u0430\u0446\u0438\u044f",signout:"\u041e\u0442\u043f\u0438\u0441\u0432\u0430\u043d\u0435",about:"\u041e\u0442\u043d\u043e\u0441\u043d\u043e",signInTo:"\u0420\u0435\u0433\u0438\u0441\u0442\u0440\u0430\u0446\u0438\u044f \u0432",cantSignOutTip:"\u0424\u0443\u043d\u043a\u0446\u0438\u044f\u0442\u0430 \u043d\u0435 \u0435 \u043d\u0430\u043b\u0438\u0447\u043d\u0430 \u0432 \u0440\u0435\u0436\u0438\u043c \u043d\u0430 \u043f\u0440\u0435\u0434\u0432\u0430\u0440\u0438\u0442\u0435\u043b\u0435\u043d \u043f\u0440\u0435\u0433\u043b\u0435\u0434.",
+_localized:{}}});

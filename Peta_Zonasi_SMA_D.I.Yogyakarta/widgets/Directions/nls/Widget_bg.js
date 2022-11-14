@@ -1,0 +1,5 @@
+// All material copyright ESRI, All Rights Reserved, unless otherwise specified.
+// See http://js.arcgis.com/3.15/esri/copyright.txt and http://www.arcgis.com/apps/webappbuilder/copyright.txt for details.
+//>>built
+define({"widgets/Directions/nls/strings":{_widgetLabel:"\u041f\u043e\u0441\u043e\u043a\u0438",_featureAction_DirectionFrom:"\u041f\u043e\u0441\u043e\u043a\u0438 \u043e\u0442 \u0442\u0443\u043a",_featureAction_DirectionTo:"\u041f\u043e\u0441\u043e\u043a\u0438 \u0434\u043e \u0442\u0443\u043a",_featureAction_OpenInDirections:"\u041e\u0442\u0432\u0430\u0440\u044f\u043d\u0435 \u0432 \u041f\u043e\u0441\u043e\u043a\u0438",_featureAction_OpenRoute:"\u041e\u0442\u0432\u0430\u0440\u044f\u043d\u0435 \u043d\u0430 \u043c\u0430\u0440\u0448\u0440\u0443\u0442",
+_featureAction_EditRoute:"\u0420\u0435\u0434\u0430\u043a\u0442\u0438\u0440\u0430\u043d\u0435 \u043d\u0430 \u043c\u0430\u0440\u0448\u0440\u0443\u0442",searchPlaceholder:"\u041d\u0430\u043c\u0438\u0440\u0430\u043d\u0435 \u043d\u0430 \u0430\u0434\u0440\u0435\u0441 \u0438\u043b\u0438 \u043d\u0430\u0441\u0435\u043b\u0435\u043d\u043e \u043c\u044f\u0441\u0442\u043e",_localized:{}}});
